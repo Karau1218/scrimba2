@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Karau1218/scrimba2/tree/main",
+  "homepage": "https://karau1218.github.io/scrimba2/",
 
   "scripts": {
     "dev": "vite",
